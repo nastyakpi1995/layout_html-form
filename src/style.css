@@ -3,10 +3,10 @@ label {
   margin-bottom: 10px;
 }
 
-.Conteiner {
+.conteiner {
   margin-bottom: 20px;
 }
 
-.zero_margin {
+label:last-child {
   margin: 0;
 }
