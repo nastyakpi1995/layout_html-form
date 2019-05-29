@@ -53,4 +53,4 @@ Add attribute `data-qa="field-placeholder"` to test it correctly.
 **Result**
 
 - [DEMO LINK](https://nastyakpi1995.github.io/layout_html-form/)
-- [TEST REPORT LINK](https://nastyakpi1995.github.io/layout_html-form/report/html_report/)
+- [TEST REPORT LINK](https://nastyakpi1995.github.io/layout_html-form//report/html_report/)
